@@ -43,7 +43,7 @@ export const Hero = () => {
 
             <div className="flex gap-4 pt-4">
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/upender-reddy-keesari/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-accent transition-colors"
@@ -52,7 +52,7 @@ export const Hero = () => {
                 <Linkedin className="h-6 w-6" />
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/upenderreddykeesari"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-accent transition-colors"
@@ -83,10 +83,10 @@ export const Hero = () => {
                 <div className="mt-6 text-center">
                   <h3 className="font-serif text-2xl font-bold text-foreground">SDET & DEVOPS ENGINEER</h3>
                   <div className="flex justify-center gap-4 mt-4">
-                    <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">
+                    <a href="https://www.linkedin.com/in/upender-reddy-keesari/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">
                       <Linkedin className="h-5 w-5" />
                     </a>
-                    <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">
+                    <a href="https://github.com/upenderreddykeesari" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">
                       <Github className="h-5 w-5" />
                     </a>
                     <a href="mailto:upenderreddykeesari8@gmail.com" className="text-muted-foreground hover:text-accent transition-colors">

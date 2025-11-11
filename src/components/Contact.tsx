@@ -27,12 +27,12 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    link: "https://linkedin.com",
+    link: "https://www.linkedin.com/in/upender-reddy-keesari/",
   },
   {
     icon: Github,
     label: "GitHub",
-    link: "https://github.com",
+    link: "https://github.com/upenderreddykeesari",
   },
 ];
 
