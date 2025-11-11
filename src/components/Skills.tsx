@@ -2,37 +2,46 @@ import { Card, CardContent } from "@/components/ui/card";
 
 const skillCategories = [
   {
-    category: "Automation Tools",
-    skills: ["Playwright", "Selenium WebDriver", "Cypress", "REST Assured", "Postman"],
+    category: "Automation & Testing",
+    skills: ["Playwright", "Selenium", "Cypress", "REST Assured", "Postman", "JMeter"],
   },
   {
     category: "Programming",
-    skills: ["Java", "Python", "TypeScript", "JavaScript"],
-  },
-  {
-    category: "Frameworks",
-    skills: ["Cucumber", "TestNG", "JUnit", "SpecFlow", "Pytest"],
+    skills: ["Java", "Python", "TypeScript", "JavaScript", "Bash", "PowerShell"],
   },
   {
     category: "CI/CD & DevOps",
-    skills: ["Jenkins", "GitHub Actions", "Azure DevOps", "Docker", "Maven"],
+    skills: ["Jenkins", "GitHub Actions", "Azure DevOps", "GitLab CI", "CircleCI"],
   },
   {
-    category: "Databases",
-    skills: ["PostgreSQL", "MySQL", "Oracle", "MongoDB"],
+    category: "Containers & Orchestration",
+    skills: ["Docker", "Kubernetes", "Docker Compose", "Helm", "ArgoCD"],
   },
   {
-    category: "Testing Types",
-    skills: ["Functional", "API Testing", "Performance", "Regression", "E2E Testing"],
+    category: "Infrastructure as Code",
+    skills: ["Terraform", "Ansible", "CloudFormation", "Pulumi"],
+  },
+  {
+    category: "Cloud Platforms",
+    skills: ["AWS", "Azure", "GCP", "AWS CodeBuild", "Lambda"],
+  },
+  {
+    category: "Databases & Monitoring",
+    skills: ["PostgreSQL", "MySQL", "MongoDB", "Prometheus", "Grafana", "ELK Stack"],
+  },
+  {
+    category: "Testing Frameworks",
+    skills: ["Cucumber", "TestNG", "JUnit", "Pytest", "SpecFlow"],
   },
 ];
 
 const allSkills = [
-  "Playwright", "Selenium", "Cypress", "REST Assured", "Java", "Python", 
-  "TypeScript", "JavaScript", "Cucumber", "TestNG", "Jenkins", "GitHub Actions",
-  "Docker", "PostgreSQL", "MySQL", "API Testing", "Performance Testing",
-  "CI/CD", "BDD", "TDD", "Agile", "Scrum", "JIRA", "Git", "Maven",
-  "Postman", "JMeter", "SQL", "MongoDB", "Azure DevOps", "LoadRunner"
+  "Playwright", "Selenium", "Cypress", "Jenkins", "Docker", "Kubernetes",
+  "Terraform", "Ansible", "AWS", "Azure", "Java", "Python", 
+  "TypeScript", "JavaScript", "REST Assured", "GitHub Actions", "GitLab CI",
+  "Prometheus", "Grafana", "PostgreSQL", "MongoDB", "Cucumber", "ArgoCD",
+  "CI/CD", "BDD", "TDD", "Agile", "Scrum", "JIRA", "Git", "Helm",
+  "Postman", "JMeter", "API Testing", "Bash", "CloudFormation", "ELK Stack"
 ];
 
 export const Skills = () => {

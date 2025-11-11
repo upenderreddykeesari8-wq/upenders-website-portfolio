@@ -9,13 +9,6 @@ const education = [
     period: "August 2023 – May 2025",
     description: "Focused on software engineering, data structures, algorithms, and advanced testing methodologies.",
   },
-  {
-    degree: "Bachelor of Technology in Computer Science",
-    school: "JNTU University",
-    location: "Hyderabad, India",
-    period: "June 2015 – May 2019",
-    description: "Comprehensive study of computer science fundamentals, programming, and software development.",
-  },
 ];
 
 export const Education = () => {
@@ -26,7 +19,7 @@ export const Education = () => {
           Education
         </h2>
 
-        <div className="grid md:grid-cols-2 gap-8">
+        <div className="max-w-2xl mx-auto">
           {education.map((edu, index) => (
             <Card
               key={index}

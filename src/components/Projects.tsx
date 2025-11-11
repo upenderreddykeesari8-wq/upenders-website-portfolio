@@ -3,33 +3,33 @@ import { Card, CardContent } from "@/components/ui/card";
 
 const projects = [
   {
-    title: "E-Commerce Test Automation Framework",
-    description: "Built comprehensive Playwright automation suite for e-commerce platform testing booking, cart, and payment flows",
+    title: "Healthcare EHR Test Automation",
+    description: "Built comprehensive Selenium framework for Apollo Hospitals EHR system with 60% reduction in manual testing",
     color: "from-blue-900 to-blue-700",
   },
   {
-    title: "API Testing Framework",
-    description: "Developed REST Assured framework for microservices validation with 100% coverage",
+    title: "Banking API Testing Framework",
+    description: "Developed REST Assured framework for HDFC Bank microservices with 100% API coverage and data validation",
     color: "from-purple-900 to-purple-700",
   },
   {
-    title: "CI/CD Pipeline Integration",
-    description: "Integrated automation frameworks with Jenkins and GitHub Actions for continuous testing",
+    title: "CI/CD Pipeline Automation",
+    description: "Architected Jenkins and GitHub Actions pipelines reducing deployment time by 70% at Southwest Airlines",
     color: "from-orange-900 to-orange-700",
   },
   {
-    title: "Performance Testing Suite",
-    description: "Created JMeter scripts for load testing and performance validation of critical APIs",
+    title: "Kubernetes Deployment Framework",
+    description: "Created Helm charts and ArgoCD workflows for containerized application deployments with zero downtime",
     color: "from-indigo-900 to-indigo-700",
   },
   {
-    title: "BDD Framework with Cucumber",
-    description: "Implemented BDD framework with Cucumber for behavior-driven testing and collaboration",
+    title: "Infrastructure as Code Suite",
+    description: "Implemented Terraform and Ansible playbooks for AWS infrastructure provisioning and configuration management",
     color: "from-teal-900 to-teal-700",
   },
   {
-    title: "Database Testing Framework",
-    description: "Built SQL-based validation framework for data integrity testing across PostgreSQL and Oracle",
+    title: "Performance Testing Platform",
+    description: "Built JMeter-based load testing suite identifying bottlenecks and improving API response times by 30%",
     color: "from-red-900 to-red-700",
   },
 ];

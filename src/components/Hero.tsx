@@ -18,8 +18,8 @@ export const Hero = () => {
                 Understanding the code through patterns
               </h1>
               <p className="text-lg lg:text-xl text-muted-foreground max-w-xl">
-                Dynamic SDET and QA Automation Engineer specializing in building robust automation frameworks 
-                with Playwright, Selenium, and Cypress. Passionate about quality engineering and continuous testing.
+                Dynamic SDET & DevOps Engineer specializing in test automation, CI/CD pipelines, and infrastructure as code. 
+                Expert in Playwright, Selenium, Jenkins, Docker, and Kubernetes with 5+ years building scalable automation frameworks.
               </p>
             </div>
 
@@ -81,7 +81,7 @@ export const Hero = () => {
                   className="w-full max-w-sm rounded-lg"
                 />
                 <div className="mt-6 text-center">
-                  <h3 className="font-serif text-2xl font-bold text-foreground">DATA ANALYST</h3>
+                  <h3 className="font-serif text-2xl font-bold text-foreground">SDET & DEVOPS ENGINEER</h3>
                   <div className="flex justify-center gap-4 mt-4">
                     <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">
                       <Linkedin className="h-5 w-5" />

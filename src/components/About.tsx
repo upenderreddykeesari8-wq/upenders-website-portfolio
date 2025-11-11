@@ -25,22 +25,22 @@ export const About = () => {
           {/* Text Content */}
           <div className="slide-up space-y-6">
             <p className="text-lg text-foreground/90 leading-relaxed">
-              Dynamic Software Development Engineer in Test (SDET) and QA Automation Engineer with 5+ years 
+              Dynamic Software Development Engineer in Test (SDET) and DevOps professional with 5+ years 
               of experience designing, developing, and executing robust automation frameworks across UI, API, 
-              and backend testing.
+              and backend testing. Expert in building and maintaining CI/CD pipelines, infrastructure automation, 
+              and cloud-native solutions.
             </p>
             
             <p className="text-lg text-foreground/90 leading-relaxed">
-              Proven expertise in Playwright, Selenium, Cypress, and REST Assured, with deep knowledge of Java, 
-              Python, and TypeScript for building scalable, reusable automation suites. I am skilled in building 
-              end-to-end automation frameworks from scratch using best practices in OOP, data structures, and 
-              algorithms for efficient and maintainable test code.
+              Proven expertise in Playwright, Selenium, Cypress, Jenkins, Docker, and Kubernetes with deep knowledge 
+              of Java, Python, and TypeScript. Skilled in building end-to-end automation frameworks from scratch, 
+              implementing GitOps workflows, and creating infrastructure as code using Terraform and Ansible.
             </p>
 
             <p className="text-lg text-foreground/90 leading-relaxed">
-              Experienced in SQL-based data validation, backend verification, and testing complex data workflows 
-              to ensure data integrity and system reliability. Proven track record of reducing regression cycles 
-              by over 60%, increasing automation coverage up to 95%, and improving defect detection rates by 40%.
+              Track record of reducing regression cycles by 60%, achieving 95% automation coverage, and optimizing 
+              deployment pipelines for faster releases. Passionate about quality engineering, continuous testing, 
+              and building scalable DevOps solutions.
             </p>
 
             <div className="pt-4">
