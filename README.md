@@ -1,73 +1,54 @@
-# Welcome to your Lovable project
+# Upender Reddy Keesari - Portfolio Website
 
-## Project info
+## About
 
-**URL**: https://lovable.dev/projects/edb79102-a627-4b9c-a2e5-c4f0b1413774
+Personal portfolio website showcasing my work as a Dynamic SDET & DevOps Engineer specializing in test automation, CI/CD pipelines, and infrastructure as code.
 
-## How can I edit this code?
+## Tech Stack
 
-There are several ways of editing your application.
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
 
-**Use Lovable**
+## Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/edb79102-a627-4b9c-a2e5-c4f0b1413774) and start prompting.
+- Responsive design
+- Professional portfolio sections
+- Contact information
+- Work showcase
+- Modern UI/UX
 
-Changes made via Lovable will be committed automatically to this repo.
+## Development
 
-**Use your preferred IDE**
+### Prerequisites
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- Node.js & npm installed
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Installation
 
-Follow these steps:
+```bash
+npm install
+```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Run Development Server
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+### Build for Production
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+npm run build
+```
 
-**Use GitHub Codespaces**
+## Contact
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Email: upenderreddykeesari8@gmail.com
+- Phone: +1 (815) 530-3488
+- Location: Chicago, Illinois
 
-## What technologies are used for this project?
+## License
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/edb79102-a627-4b9c-a2e5-c4f0b1413774) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+© 2025 Upender Reddy Keesari. All rights reserved.
